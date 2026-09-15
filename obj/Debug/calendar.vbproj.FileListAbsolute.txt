@@ -1,0 +1,12 @@
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.vbproj.AssemblyReference.cache
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.FormMain.resources
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.FormFlyout.resources
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.Resources.resources
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.vbproj.GenerateResource.cache
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.vbproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\net\calendar\bin\Debug\calendar.exe
+C:\Users\home\Desktop\net\calendar\bin\Debug\calendar.pdb
+C:\Users\home\Desktop\net\calendar\bin\Debug\calendar.xml
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.exe
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.xml
+C:\Users\home\Desktop\net\calendar\obj\Debug\calendar.pdb
