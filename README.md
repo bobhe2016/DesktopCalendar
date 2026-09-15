@@ -1,9 +1,10 @@
+
 # DesktopCalendar
-一个基于 VB.NET (WinForms) 开发的高颜值、轻量级 Windows 桌面日历与时钟小工具。支持农历显示、智能托盘/任务栏吸附模式、无缝跨日同步以及长日历面板展开，占用资源极低，完美契合 Windows 原生体验。
+一个基于 VB.NET (net2.0) 开发的高颜值、轻量级 Windows 桌面日历与时钟小工具，解决win7/WIN8中文用户没有农历日历的遗憾。支持农历显示、智能托盘/任务栏吸附模式、无缝跨日同步以及长日历面板展开，占用资源极低，完美契合 Windows 原生体验。
 
 # 📅 DesktopCalendar (桌面精致日历小工具)
 
-一个基于 VB.NET (WinForms) 开发的高颜值、轻量级 Windows 桌面日历与时钟小工具。支持农历显示、智能托盘/任务栏吸附模式、无缝跨日同步以及长日历面板展开，占用资源极低，完美契合 Windows 原生体验。
+一个基于 VB.NET (net2.0) 开发的高颜值、轻量级 Windows 桌面日历与时钟小工具。支持农历显示、智能托盘/任务栏吸附模式、无缝跨日同步以及长日历面板展开，占用资源极低，完美契合 Windows 原生体验。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
@@ -48,5 +49,9 @@
 * **开发工具**：Visual Studio 2022
 * **依赖组件**：无第三方依赖，纯 Windows Win32 API + WinForms 原生实现
 
+## 效果预览
+<img width="1920" height="1080" alt="preview-3" src="https://github.com/user-attachments/assets/6e5f3f04-093b-4bd4-b901-d6177ff3e448" />
+<img width="1920" height="1080" alt="preview-2" src="https://github.com/user-attachments/assets/3738fff4-8b6f-4b4d-89f5-bdc20ec547b5" />
+<img width="1920" height="1080" alt="preview-1" src="https://github.com/user-attachments/assets/40d550f1-452b-4b08-b869-c55d7fb94e9c" />
 
 
